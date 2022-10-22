@@ -1,4 +1,5 @@
-# GPT-3 Streamlit boilerplate
+# GPT3-Streamlit-WritePoem
+# Based on GPT3-Streamlit-Bolierplate 
 
 - create virtual environment https://docs.python.org/3/library/venv.html
 - Activate virtual environment: `./venv/Scripts/activate`
